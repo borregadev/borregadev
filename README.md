@@ -1,6 +1,6 @@
 # Hello! I'm Carlos
 
-- 👨🏻‍💻 I'm a UX/UI and front-end engineer.
+- 👨🏻‍💻 I'm a UX/UI and frontend engineer.
 - 💻 I code clean, efficient, and responsive websites.
 - 💬 Ask me about front-end development, UX/UI design, or web technologies.
 - 📫 Contact me at [c.borrega@proton.me].
