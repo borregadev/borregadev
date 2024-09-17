@@ -8,7 +8,7 @@
 ## Tech Stack
 
 - **ReactJS**
-- **Typescript**
+- **TypeScript**
 - **JavaScript**
 - **Node.js**
 - **jQuery**
