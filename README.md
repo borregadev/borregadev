@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I'm a UX/UI and Frontend Developer.
 - 💻 I code clean, efficient, and responsive websites.
 - 💬 Ask me about front-end development, UX/UI design, or web technologies.
-- 📫 Contact me at [c.borrega@proton.me](mailto:c.borrega@proton.me).
+- 📫 Contact me at [c.borrega@pm.me](mailto:c.borrega@pm.me).
 
 ## 🛠 Tech Stack
 
